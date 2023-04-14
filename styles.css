@@ -541,7 +541,7 @@ header section:hover .fa-chevron-left {
 
 @media screen and (max-width:1250px) {
   header video {
-    width: 211%;
+    width: 160%;
     height: 179%;
     position: absolute;
   }
